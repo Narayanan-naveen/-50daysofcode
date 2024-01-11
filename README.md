@@ -1,2 +1,3 @@
 # 50daysofcode
-<button src="https://narayanan-naveen.github.io/Calculator/"> Project </button>
+
+  <a href="https://narayanan-naveen.github.io/Calculator/">Project</a>
